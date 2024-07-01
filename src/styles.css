@@ -14,9 +14,9 @@ body {
   width: 100%;
 }
 /* add a smooth scroll */
-/* html {
+html {
   scroll-behavior: smooth;
-} */
+}
 
 div#main {
   display: flex;
