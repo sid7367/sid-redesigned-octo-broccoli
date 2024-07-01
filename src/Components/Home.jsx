@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/boy using VR-AR.jpg";
+import image from "../images/goldstein.jpg";
 
-const imageAltText = "Boy using VR headset and AR glasses learning about technology.";
+const imageAltText = "Integrated Circuit designing on a computer";
 
 const Home = ({ name, title }) => {
   return (
